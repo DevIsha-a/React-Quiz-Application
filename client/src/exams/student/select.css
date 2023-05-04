@@ -1,0 +1,44 @@
+.chapter{
+    font-size: larger;
+    background-color: #929393;
+    height: 50px;
+    width: 50%;
+    text-align: left;
+    padding: 10px 57px;
+    color: white;
+}
+.single-main{
+  position: relative;
+}
+
+.btn-add{
+    margin-top: 100px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    font-size: 30px;
+    margin-bottom: 30px;
+  
+  }
+  .back{
+    background-color: white;
+    width: 90px;
+    padding: 7px 10px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    text-decoration: none;
+    color: black;
+    margin-top: 30px;
+  }
+  .r{
+    /* position: absolute; */
+    margin-left: -81px;
+
+    top: 14px;
+    right: 30%;
+    font-size: 30px;
+  }
+  .inner{
+    display: block;
+  }

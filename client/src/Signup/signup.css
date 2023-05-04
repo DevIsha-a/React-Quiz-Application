@@ -1,0 +1,28 @@
+.btn-primary{
+    padding: 10px 42px;
+    background-color: #555;
+    color: #ddd;
+    border: 1px solid #ddd;
+    /* width: 68px; */
+    margin-right: 28px;
+    font-size: 20px;
+
+}
+.sel {
+    border: none;
+    width: 40%;
+    height: 34px;
+    font-size: 15px;
+    padding: 2px 19px;
+    background: #555;
+    border-bottom: 1.5px white solid;
+    color: white;
+    margin-left: 19%;
+    margin-top: 32px;
+    height: 56px;
+}
+.btn-primary{
+    margin-left: 276px;
+    margin-top: 20px;
+
+}

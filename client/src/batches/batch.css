@@ -1,0 +1,8 @@
+.batch-container{
+    align-items: center;
+    /* align-content: center; */
+    display: inline-block;
+}
+#b{
+    margin: auto;
+}

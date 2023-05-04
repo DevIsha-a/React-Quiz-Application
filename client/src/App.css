@@ -1,0 +1,100 @@
+html{
+  height: 100%;
+  overflow: visible;
+}
+.App {
+  text-align: center;
+  /* width: 100%; */
+  /* height: 100%; */
+  background-color: #20191900;
+  box-shadow: rgb(50 50 93 / 25%) 0px 30px 60px -12px inset, rgb(0 0 0 / 30%) 0px 18px 36px -18px inset;
+color: white;
+}
+#start{
+  
+  padding: 5px 32px;
+  background-color: #5e5e5e;
+  border: 2px transparent solid;
+  font-size: 30px;
+  border-radius: 9px;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.subjects {
+  display: inline-block;
+  background-color: #d5d5d529;
+  vertical-align: middle;
+    padding-top: 42px;
+    height: 47px;
+  margin-right: 10px;
+  height: 100px;
+  width: 100px;
+  border-radius: 21px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+}
+.btn-add{
+  margin-top: 100px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  font-size: 30px;
+
+}
+.sub-inp{
+  margin-top: 30px;
+}
+select{
+  width: 300px;
+  height: 34px;
+  font-size: 15px;
+  padding: 2px 19px;
+  background: #555;
+  border: 2px black solid;
+  color:white;
+}
+.sav-sub{
+  background-color: #000000;
+    width: 105px;
+    height: 35px;
+    color: white;
+    font-size: 15px;
+    padding: 5px 7px;
+    /* border: 2px white solid; */
+    border-radius: 11px;
+}
+.sav-sub:hover{
+  border: 3px black solid;
+  box-shadow: #282c34;
+}
+option{
+  
+  border-bottom: 4px black solid;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
